@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Harshan J Banner" width="100%">
-</p>
+
 <h1 align="center">Hi 👋, I'm Harshan J</h1>
 
 <h3 align="center">
