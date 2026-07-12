@@ -30,7 +30,31 @@ Passionate about building intelligent healthcare technologies through Biomedical
 - Machine Learning
   
 ## 🛠 Tech Stack
-Python • MATLAB • C • OpenCV • Git • GitHub
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,vscode" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=Mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 🔬 Domains of Interest
+
+<p>
+<img src="https://img.shields.io/badge/Biomedical%20Engineering-0077B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Biomedical%20Signal%20Processing-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Medical%20Image%20Processing-5E35B1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-1565C0?style=for-the-badge"/>
+</p>
 
 ## 📫 Connect
 📧 hrshnyadava@gmail.com
