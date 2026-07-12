@@ -64,5 +64,14 @@ Passionate about building intelligent healthcare technologies through Biomedical
 </a>
 </p>
 
+---
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=harshanj05&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ⭐ Always learning. Always building.
