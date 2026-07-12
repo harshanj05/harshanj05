@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Harshan J</h1>
 
-<!--
-**harshanj05/harshanj05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Electronics & Communication Engineering Undergraduate | Biomedical Engineering Minor
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about building intelligent healthcare technologies through Biomedical Engineering, Artificial Intelligence, Medical Image Processing, Signal Processing and Computer Vision.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+🎓 B.Tech Electronics & Communication Engineering @ Alliance University
+🩺 Biomedical Engineering Minor
+🔬 Interested in AI for Healthcare
+📷 Medical Image Processing
+📈 Biomedical Signal Processing
+🤖 Computer Vision
+💻 MATLAB • Python • OpenCV
+🌱 Currently exploring Deep Learning and Embedded AI
+
+## 🧠 Research Interests
+- Biomedical AI
+- Medical Imaging
+- Physiological Signal Processing
+- Embedded Healthcare Devices
+- Computer Vision
+- Machine Learning
+  
+## 🛠 Tech Stack
+Python • MATLAB • C • OpenCV • Git • GitHub
+
+## 📫 Connect
+📧 hrshnyadava@gmail.com
+💼 LinkedIn:
+www.linkedin.com/in/harshanj05
+
+⭐ Always learning. Always building.
