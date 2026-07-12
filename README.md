@@ -54,14 +54,23 @@ Passionate about building intelligent healthcare technologies through Biomedical
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-1565C0?style=for-the-badge"/>
 </p>
 
-## 📫 Connect
+## 📫 Connect with Me
+<p align="left">
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:hrshnyadava@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
 ## 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshanj05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshanj05&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshanj05&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshanj05&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
