@@ -74,11 +74,11 @@ Passionate about building intelligent healthcare technologies through Biomedical
 
 </p>
 
----
 
-## 📈 GitHub Activity Graph
+## 📈 Contribution Graph
+
 <p align="center">
-[![Harshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshanj05&theme=tokyo-night&hide_border=true)](https://github.com/harshanj05)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshanj05&theme=tokyo-night&hide_border=true&hide_title=true)](https://github.com/harshanj05)
 </p>
 
 ⭐ Always learning. Always building.
